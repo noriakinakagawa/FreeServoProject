@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP7381-33Y-13
+D PMIC - 電圧レギュレータ - リニア ポジティブ 固定 1 出力 150mA SOT-89-3
+F https://www.diodes.com/assets/Datasheets/AP7381.pdf
+$ENDCMP
+#
+#End Doc Library

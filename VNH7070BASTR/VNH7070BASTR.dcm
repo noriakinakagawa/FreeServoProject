@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VNH7070BASTR
+D モータドライバ パワーMOSFET PWM 16-SO
+F https://www.st.com/content/ccc/resource/technical/document/datasheet/group3/a8/58/2f/1d/f5/cf/4f/3d/DM00314800/files/DM00314800.pdf/jcr:content/translations/en.DM00314800.pdf
+$ENDCMP
+#
+#End Doc Library

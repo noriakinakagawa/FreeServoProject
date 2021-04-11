@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# AP7381-33Y-13
+#
+DEF AP7381-33Y-13 U 0 40 Y Y 1 F N
+F0 "U" -150 250 50 H V C CNN
+F1 "AP7381-33Y-13" 50 150 50 H V C CNN
+F2 "TO_SOT_Packages_SMD:SOT-89-3" 50 -750 50 H I C CNN
+F3 "" -150 250 50 H I C CNN
+F4 "AP7381-33Y-13" 50 -850 50 H I C CNN "#manf"
+F5 "https://www.digikey.jp/product-detail/ja/diodes-incorporated/AP7381-33Y-13/AP7381-33Y-13DICT-ND/7914856" 850 -950 50 H I C CNN "#order_URL"
+DRAW
+S -250 100 250 -300 0 1 0 N
+X VOUT 1 450 0 200 L 59 59 1 1 w
+X GND 2 0 -500 200 U 59 59 1 1 W
+X VIN 3 -450 0 200 R 59 59 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library

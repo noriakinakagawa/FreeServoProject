@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MLX91221
+D 電流センサ 20A 1 チャンネル ホール効果 双方向性 8-SOIC（0.154インチ、3.90mm幅）
+F https://www.digikey.jp/product-detail/ja/melexis-technologies-nv/MLX91221KDC-ABR-020-RE/413-MLX91221KDC-ABR-020-RECT-ND/13572194
+$ENDCMP
+#
+#End Doc Library
