@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name 4P-SBN)(type KiCad)(uri ${KIPRJMOD}/4P-SBN/4P-SBN.pretty)(options "")(descr ""))
+  (lib (name RDC503052A)(type KiCad)(uri ${KIPRJMOD}/RDC503052A/RDC503052A.pretty)(options "")(descr ""))
+)
