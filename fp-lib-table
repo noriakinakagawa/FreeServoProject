@@ -1,4 +1,8 @@
 (fp_lib_table
   (lib (name 4P-SBN)(type KiCad)(uri ${KIPRJMOD}/4P-SBN/4P-SBN.pretty)(options "")(descr ""))
   (lib (name RDC503052A)(type KiCad)(uri ${KIPRJMOD}/RDC503052A/RDC503052A.pretty)(options "")(descr ""))
+  (lib (name VNH7070BASTR)(type KiCad)(uri ${KIPRJMOD}/VNH7070BASTR/VNH7070BASTR.pretty)(options "")(descr ""))
+  (lib (name 35ZLH220MEFC8X11.5)(type KiCad)(uri ${KIPRJMOD}/35ZLH220MEFC8X11.5/35ZLH220MEFC8X11.5.pretty)(options "")(descr ""))
+  (lib (name CSTNE8M00G55Z000R0)(type KiCad)(uri ${KIPRJMOD}/CSTNE8M00G55Z000R0)(options "")(descr ""))
+  (lib (name SMD_Pad)(type KiCad)(uri ${KIPRJMOD}/SMD_Pad/SMD_Pad.pretty)(options "")(descr ""))
 )

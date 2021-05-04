@@ -1,7 +1,7 @@
 (sym_lib_table
-  (lib (name VNH7070BASTR)(type Legacy)(uri "I:/Nakagawa/Dropbox (rt-net)/kiCAD/FreeServoProject/VNH7070BASTR/VNH7070BASTR.lib")(options "")(descr ""))
-  (lib (name AP7381-33Y-13)(type Legacy)(uri "I:/Nakagawa/Dropbox (rt-net)/kiCAD/FreeServoProject/AP7381-33Y-13/AP7381-33Y-13.lib")(options "")(descr ""))
-  (lib (name 103JT-050)(type Legacy)(uri "I:/Nakagawa/Dropbox (rt-net)/kiCAD/FreeServoProject/103JT-050/103JT-050.lib")(options "")(descr ""))
-  (lib (name ST1480ACDR)(type Legacy)(uri "I:/Nakagawa/Dropbox (rt-net)/kiCAD/FreeServoProject/ST1480ACDR/ST1480ACDR.lib")(options "")(descr ""))
-  (lib (name AS5600-ASOM)(type Legacy)(uri "I:/Nakagawa/Dropbox (rt-net)/kiCAD/FreeServoProject/AS5600-ASOM/AS5600-ASOM.lib")(options "")(descr ""))
+  (lib (name VNH7070BASTR)(type Legacy)(uri ${KIPRJMOD}/VNH7070BASTR/VNH7070BASTR.lib)(options "")(descr ""))
+  (lib (name AP7381-33Y-13)(type Legacy)(uri ${KIPRJMOD}/AP7381-33Y-13/AP7381-33Y-13.lib)(options "")(descr ""))
+  (lib (name 103JT-050)(type Legacy)(uri ${KIPRJMOD}/103JT-050/103JT-050.lib)(options "")(descr ""))
+  (lib (name ST1480ACDR)(type Legacy)(uri ${KIPRJMOD}/ST1480ACDR/ST1480ACDR.lib)(options "")(descr ""))
+  (lib (name AS5600-ASOM)(type Legacy)(uri ${KIPRJMOD}/AS5600-ASOM/AS5600-ASOM.lib)(options "")(descr ""))
 )
