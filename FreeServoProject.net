@@ -1,8 +1,8 @@
 (export (version D)
   (design
     (source "I:\\Nakagawa\\Dropbox (rt-net)\\kiCAD\\FreeServoProject\\FreeServoProject.sch")
-    (date "2021/05/05 14:05:17")
-    (tool "Eeschema (5.1.9)-1")
+    (date "2021/07/03 18:11:03")
+    (tool "Eeschema (5.1.10)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
         (title)
@@ -191,8 +191,8 @@
       (footprint Capacitors_SMD:C_0805)
       (datasheet https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL21B105KBFNNNG_Spec.pdf)
       (fields
-        (field (name "#manf") CL21B105KBFNNNG)
-        (field (name order_URL) https://www.digikey.jp/product-detail/ja/samsung-electro-mechanics/CL21B105KBFNNNG/1276-6470-1-ND/5958098))
+        (field (name "#manf") CL21B105KBFNFNE)
+        (field (name order_URL) https://www.digikey.jp/product-detail/ja/samsung-electro-mechanics/CL21B105KBFNFNE/1276-2928-1-ND/3891014))
       (libsource (lib Device) (part C) (description "Unpolarized capacitor"))
       (sheetpath (names /) (tstamps /))
       (tstamp 60755499))
@@ -365,7 +365,7 @@
       (tstamp 600D382D))
     (comp (ref D2)
       (value D_TVS)
-      (footprint Diodes_SMD:D_SOD-523)
+      (footprint Diodes_SMD:D_SOD-323)
       (datasheet https://assets.nexperia.com/documents/data-sheet/PESD3V3U1UA_UB_UL.pdf)
       (fields
         (field (name "#manf") PESD3V3U1UA,115)
@@ -375,7 +375,7 @@
       (tstamp 600D385C))
     (comp (ref D3)
       (value D_TVS)
-      (footprint Diodes_SMD:D_SOD-523)
+      (footprint Diodes_SMD:D_SOD-323)
       (datasheet https://assets.nexperia.com/documents/data-sheet/PESD3V3U1UA_UB_UL.pdf)
       (fields
         (field (name "#manf") PESD3V3U1UA,115)
@@ -581,12 +581,18 @@
     (comp (ref J6)
       (value Pin_Header_Straight_1x04_Pitch2.00mm)
       (footprint Pin_Headers:Pin_Header_Straight_1x04_Pitch2.00mm)
+      (fields
+        (field (name "#manf") 2210S-40G)
+        (field (name order_URL) https://akizukidenshi.com/catalog/g/gC-03867/))
       (libsource (lib Connector_Generic) (part Conn_01x04) (description "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"))
       (sheetpath (names /) (tstamps /))
       (tstamp 60BE91B3))
     (comp (ref J5)
       (value Pin_Header_Straight_1x04_Pitch2.00mm)
       (footprint Pin_Headers:Pin_Header_Straight_1x04_Pitch2.00mm)
+      (fields
+        (field (name "#manf") 2210S-40G)
+        (field (name order_URL) https://akizukidenshi.com/catalog/g/gC-03867/))
       (libsource (lib Connector_Generic) (part Conn_01x04) (description "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"))
       (sheetpath (names /) (tstamps /))
       (tstamp 60C4E243))
